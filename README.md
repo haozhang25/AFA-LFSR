@@ -3,14 +3,20 @@ This is the official PyTorch implementation of the paper "Cascade Residual Learn
 
 ## Code
 
-- [AFA-LFSSR](https://github.com/haozhang25/AFA-LFSSR): Cascade Residual Learning based Adaptive Feature Aggregation for Light Field Spatial Super-Resolution<br> 
-![LFSSR_1.png](fig/LFSSR_1.png)
-![LFSSR_2.png](fig/LFSSR_2.png)
- <br><br>
-- [AFA-LFASR](https://github.com/haozhang25/AFA-LFASR): Cascade Residual Learning based Adaptive Feature Aggregation for Light Field Angular Super-Resolution<br> 
-![LFASR_1.png](fig/LFASR_1.png)
-![LFASR_2.png](fig/LFASR_2.png)
-  
+- **[AFA-LFSSR](https://github.com/haozhang25/AFA-LFSSR)**: Cascade Residual Learning based Adaptive Feature Aggregation for Light Field Spatial Super-Resolution
+
+<p align="center">
+  <img src="fig/LFSSR_1.png" width="48%">
+  <img src="fig/LFSSR_2.png" width="48%">
+</p>
+
+- **[AFA-LFASR](https://github.com/haozhang25/AFA-LFASR)**: Cascade Residual Learning based Adaptive Feature Aggregation for Light Field Angular Super-Resolution
+
+<p align="center">
+  <img src="fig/LFASR_1.png" width="48%">
+  <img src="fig/LFASR_2.png" width="48%">
+</p>
+
 ## Citation
 If you find this work helpful, please consider citing the following papers:<br> 
 ```Citation
